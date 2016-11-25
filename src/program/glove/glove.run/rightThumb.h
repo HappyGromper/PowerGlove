@@ -24,6 +24,6 @@ void thumbReading() {
     Serial.println("Thumb Pos 4");
   }
   else{
-    Serial.println("Null");
+    Serial.println(" Thumb Null");
   }
 }
